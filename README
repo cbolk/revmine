@@ -1,0 +1,9 @@
+== description ==
+This is a web application to search for people working on a "keyword" topic, not
+directly related to the authors of a paper, exploiting DBLP data (http://www.informatik.uni-trier.de/~ley/db/).
+
+In the future, it should include also information retrieved from other scientific publications data
+sets.
+
+== credits ==
+The first, already partially revised, implementation is by two students. It works but that's mostly it.

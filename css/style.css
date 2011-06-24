@@ -1,0 +1,62 @@
+.container{background-color:#dedede;min-width:970px;}
+.topbar{position:relative;padding:1px;margin:5px;background-color:#FFF;top:5px;}
+.elenco{list-style-type:none; position:relative;padding:5px;}
+
+a.nodec{text-decoration: none;font-weight:bold;}
+
+.clearfix{clear:both;width:auto;}
+
+p.info{font-family:Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;font-size:12px;padding:4px 4px;margin:0 0 5px 0;width:98%;color:#444;}
+.error {font-weight: bold; color: red;}
+
+#home div{padding:8px;}
+
+label{font-family:Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;font-size:12px;padding:4px 4px;margin:0 0 5px 0;width:98%;color:#000000;}
+
+input[type=text]{font-family:Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;font-size:11px;padding:2px 2px;margin:0 0 5px 0;width:98%;color:#444;}
+
+/* details of an item, organized in a table */
+.table-details{width:300px;font-family:Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;font-size:90%;margin:15px 0;}
+.table-details th{text-align:left;font-weight:normal;background-color:#eaeaea;color:#999;padding:.5em .3em;border-top:1px solid #d8d8d8;border-bottom:1px solid #d8d8d8;}
+.table-details td{border-bottom:1px solid #ddd;height:20px;line-height:20px;}
+.table-details {font-size:11px;padding:5px 0;}
+.table-details td.lab {background-color:#eaeaea;padding-right:0px;background:#f8f8f8 url(/images/arrow-80.png) 0 100% repeat-x;padding:.5em .3em;}
+.table-details td.nobackground{background-color:transparent;}
+
+
+.firstcolumn{float:left;width:300px;border: 1px solid #444;margin-right: 5px;}
+.secondcolumn{float:left;width:300px;border: 1px solid #444;margin-right: 5px;}
+.lastcolumn{float:right;}
+.authorbox{border: 1px solid #dedede;}
+.author{font-family:Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;background-color:#eaeaea;font-size:12px;}
+.author span{font-weight: bold;}
+
+#box {font-family:Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;font-size: 11px;width: 410px}
+#box .notice {border:1px solid #bedce7;padding:0 .7em .7em .7em;background:#eaf2f5 url(/images/bg_gradient.gif) 0 100% repeat-x;overflow:hidden;}
+#box .searchinfo{padding-top:.7em; width:400px;padding-bottom: 10px;}
+#box .fileinfo {padding-top: 10px; width:400px;border-top:1px solid #bedce7;}
+#box .fileinfo span{width:400px;}
+
+.nav{float: right; width: 150px;text-align: left;border:1px solid #bedce7;padding: 3px;}
+
+#footer{border-top: 4px solid #005e9c;}
+
+.fleft{float:left;}
+
+.list{ border-style:solid; background-color:#bedce7; border: 2px #fff solid; display:block;
+	  position:relative;  min-height:40px;height:100%;}
+
+.underlidx{margin-top:1px;margin-right:10px;position:absolute;right:10px;top:0px;}
+
+.underlisx{width:250px;background-color:#FFF;margin:2px;margin-bottom:1px;	position:absolute;}
+
+.pubb{width:600px;min-width:250px;	
+	margin:2px;
+	position:absolute;
+	left:260px;
+	min-height:36px;
+	max-height:240px;
+	background-color:#FFF;}
+
+
+.pubb p {display:none;min-width:150px;height:215px;min-height:1px;overflow:scroll;}
